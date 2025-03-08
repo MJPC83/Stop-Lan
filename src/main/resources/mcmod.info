@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "stoplan",
+    "name": "Stop Lan",
+    "description": "adds a command for stopping lan in sp worlds, made by MJ.",
+    "version": "0.1.b",
+    "mcversion": "1.12.2",
+    "url": "",
+    "authorList": ["MJ_83"],
+    "logoFile": "stop_lan_icon.png"
+  }
+]
